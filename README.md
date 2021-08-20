@@ -43,10 +43,12 @@ The purpose of this analysis is to analyze a credit card credit dataset from a c
 
 - Easy Ensemble AdaBoost Classifier 
   - Balanced Accuracy Score is approx 93.2%
-  - The high risk precision is approx 9% only with 92% sensitivity.
+  - The high risk precision is approx 9% with 92% sensitivity.
   - The low risk precision is almost 100% with a sensitivity of 94% as shown below 
   
 ![image_name](images/easy_ensemble.png)
 
 ## Summary
+
+The recommendation given would be to spend more time finding other predictive models to accurately predict credit risk. All models show a low high risk precision.
 

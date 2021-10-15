@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-## Overview of the Analysis
+## Overview
 
 The purpose of this analysis is to analyze a credit card credit dataset from a company called LendingClub, which is a peer to peer lending service. We will use a number of different algorithms to analyze the data and predict credit risk. Then we will look at the performance of the models and recommend which should be used to predict credit risk in this situation. 
 

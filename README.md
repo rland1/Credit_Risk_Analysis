@@ -32,7 +32,7 @@ The purpose of this analysis is to analyze a credit card credit dataset from a c
   - The high risk precision is approx 1% only with 61% sensitivity.
   - The low risk precision is almost 100% with a sensitivity of 69% as shown below 
   
---![image_name](images/SMOTEENN.png)
+![image_name](images/SMOTEENN.png)
   
 - Balanced Random Forest Classifier
   - Balanced Accuracy Score is approx 78.9%

@@ -48,7 +48,7 @@ The purpose of this analysis is to analyze a credit card credit dataset from a c
   
 ![image_name](images/easy_ensemble.png)
 
-## Summary
+## Summary of Analysis 
 
 The recommendation given would be to spend more time finding other predictive models to accurately predict credit risk. All models show a low high risk precision.
 
